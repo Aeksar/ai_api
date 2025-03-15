@@ -1,0 +1,13 @@
+**/__pycache__
+
+.venv/
+
+.env
+
+mongo.env
+
+data/
+
+logs.log
+
+.pytest_cache/
